@@ -1,2 +1,2 @@
 # Snake-game
-A snake game using python progeammong
+A snake game using python 
